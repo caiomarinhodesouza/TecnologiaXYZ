@@ -1,0 +1,10 @@
+
+body {
+    padding-top: 56px; /* Ajusta o conteúdo abaixo da barra de navegação fixa */
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
